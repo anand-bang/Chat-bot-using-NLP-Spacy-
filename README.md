@@ -1,1 +1,3 @@
 # Telegram-Chat-bot-using-NLP
+The aim of this project was building a telegram chat bot that uses Deep Learning and NLP to solve queries and doubts of university students. Requirement for this is end user has to have a telegram account. In telegram the end user will search the name of the bot and to interact with the bot must press “start”. To get started the user can type “help” in order to know what kind of help or information the bot is able to provide. In order to improve our intents and make the bot better, we have also added a logger It logs the data such as userid, user_firstname, user_lastname, the message sent by the user, date and time the message was sent.
+Key Skills: Spacy | Python | NLP | Telebot | Telegram
